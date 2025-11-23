@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec"
+  status = 301
+  force = true
